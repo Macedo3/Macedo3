@@ -1,4 +1,4 @@
-### Hi there I am Gabriel de Macedo Santos. I am from Brazil, nice too meet you! 👋
+### Hi there, I am Gabriel de Macedo Santos. I am from Brazil, nice too meet you! 👋
 
 
 - 🔭 I’m student at high school
