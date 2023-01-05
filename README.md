@@ -1,7 +1,7 @@
 ### Hi there, I am Gabriel de Macedo Santos. I am from Brazil, nice too meet you! 👋
 
 
-- 🔭 I’m student at high school
+- 🔭 I’m a Software engineering student
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me:
 
