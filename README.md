@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m a Software engineering student
-- 🌱 I’m currently learning AI 
+- 🌱 I’m currently learning Macro Research
 - 📫 How to reach me:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=dark" />](https://www.linkedin.com/in/gabriel-demacedosantos/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=dark">](https://www.instagram.com/gabriel_demacedo/) 
