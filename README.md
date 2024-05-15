@@ -1,7 +1,7 @@
 ### Hi there, I am Gabriel de Macedo Santos. I am from Brazil, nice too meet you! 👋
 
 
-- 🔭 I’m a Software engineering student
+- 🔭 I’m a Computer Science student
 - 🌱 I’m currently learning Macro Research
 - 📫 How to reach me:
 
