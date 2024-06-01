@@ -9,7 +9,7 @@
 
 ##
 
-<img src="" alt="Macedo3 GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Macedo3&amp;show_icons=true&amp;theme=synthwave" style="max-width: 100%;">
+<img src="github.com/Macedo3" alt="Macedo3 GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Macedo3&amp;show_icons=true&amp;theme=synthwave" style="max-width: 100%;">
 
 ##
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /><img src= "https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /><img src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sql&logoColor=white"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
